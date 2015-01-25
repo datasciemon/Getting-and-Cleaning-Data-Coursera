@@ -1,4 +1,5 @@
 Course Project | Getting and Cleaning Data 
+
 This repository contains the R code and documentation files for the Data Science course "Getting and Cleaning data" on Coursera.
 
 Dataset: Human Activity Recognition Using Smartphones
